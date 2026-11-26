@@ -12,7 +12,9 @@ The bracket is designed to securely straddle a house brick, longways, with adjus
 <img width="1440" height="1260" alt="image" src="https://github.com/user-attachments/assets/f00a98d7-62d7-44c4-97b8-741a7f5fc980" />
 
 ## Files
-- **clip_main_240.stl** is the front 20 mm leg plus the top bar. The light hook sits at the bottom of the leg and opens upward, so you can press the cable down and in, and it clicks through the 2.3 mm opening. The top bar is a lightweight lattice so its stiff; resting on three small feet. Both legs are angled inward slightly and have small grip ridges.
+Filenames follow the same convention: codename-critical info-part name. The references below exclude codename and critical info to support document maintenance.
+
+- **clip_main_240.stl** is the front 20 mm leg plus the top bar. The light hook sits at the bottom of the leg and opens upward, so you can press the cable down and in, and it clicks through the 2.3 mm opening. The top bar is a lightweight lattice so its stiff; resting on three small feet. Both legs are angled inward slightly and have small grip ridges. 
 
 - **clip_back_leg_slider.stl** is the 50 mm back leg. It slides onto the end of the bar and ratchets in 2 mm steps; the inside gap can be between and  240 mm. Push the leg on firmly against a wall, and it clicks tight; lift the thumb tab to release.
 - The paracord lock: press a section of paracord down into the pocket above the ratchet catch, beside the thumb tab. The cord fills the space the catch needs to lift into, so the leg can't loosen while the cord is in. Push it right in until it drops into the pocket, because the lock only works there.
